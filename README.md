@@ -1,2 +1,2 @@
 # java-project
-A simple web project
+A simple Web Java Project
